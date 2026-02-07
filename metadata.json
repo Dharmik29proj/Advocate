@@ -1,0 +1,8 @@
+{
+  "name": "Justice & Partners - Advocate Firm",
+  "description": "A professional and trustworthy legal website for a premier advocate firm, featuring a sophisticated brown and white aesthetic, interactive services, and AI-powered legal assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
