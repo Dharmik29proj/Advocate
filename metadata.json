@@ -1,0 +1,7 @@
+{
+  "name": "Vidhyaan Law Associates - Premium Advocate Portal",
+  "description": "A professional, high-end legal service website for Indian advocates featuring practice area management, client testimonials, and BCI-compliant disclaimers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
